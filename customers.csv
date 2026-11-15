@@ -998,15 +998,4 @@ customer_id,first_name,last_name,email,phone,city,country,signup_date
 997,Priya,Gupta,customer997@example.com,9396871629,Pune,India,2023-11-29
 998,Arjun,Singh,customer998@example.com,9804503060,Pune,India,2025-09-02
 999,Arjun,Reddy,customer999@example.com,9260985353,Chennai,India,2025-02-22
-1000,Sneha,Sharma,customer1000@example.com,9964823687,Kolkata,India,2025-04-01
-1001,Amit,Rao,customer1001@example.com,9588474150,Kolkata,India,2026-11-01
-1002,Amit,Verma,customer1002@example.com,9885934963,Delhi,India,2026-11-02
-1003,Karan,Das,customer1003@example.com,9959015427,Bangalore,India,2026-11-03
-1004,Rohit,Patel,customer1004@example.com,9186064385,Pune,India,2026-11-04
-1005,Ananya,Singh,customer1005@example.com,9151418831,Pune,India,2026-11-05
-1006,Sneha,Gupta,customer1006@example.com,9346644101,Delhi,India,2026-11-06
-1007,Sneha,Kumar,customer1007@example.com,9251216437,Mumbai,India,2026-11-07
-1008,Neha,Gupta,customer1008@example.com,9772507741,Hyderabad,India,2026-11-08
-1009,Sneha,Verma,customer1009@example.com,9595111959,Chennai,India,2026-11-09
-1010,Arjun,Verma,customer1010@example.com,9272251606,Kolkata,India,2026-11-10
 
