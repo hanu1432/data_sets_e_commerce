@@ -999,3 +999,14 @@ order_id,customer_id,product_id,order_date,quantity,order_status
 998,203,202,2025-01-26,4,Delivered
 999,48,282,2025-08-04,1,Placed
 1000,464,176,2025-06-17,5,Delivered
+1001,665,654,2026-11-01,1,Processing
+1002,6,618,2026-11-02,4,Processing
+1003,793,872,2026-11-03,5,Processing
+1004,198,172,2026-11-04,1,Processing
+1005,994,459,2026-11-05,4,Processing
+1006,639,568,2026-11-06,1,Cancelled
+1007,254,735,2026-11-07,5,Cancelled
+1008,732,297,2026-11-08,5,Shipped
+1009,541,699,2026-11-09,3,Cancelled
+1010,875,966,2026-11-10,3,Delivered
+
