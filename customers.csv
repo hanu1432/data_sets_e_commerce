@@ -1007,4 +1007,5 @@ customer_id,first_name,last_name,email,phone,city,country,signup_date
 1006,Sneha,Kumar,customer1007@example.com,9251216437,Mumbai,India,2026-11-07
 1007,Neha,Gupta,customer1008@example.com,9772507741,Hyderabad,India,2026-11-08
 1008,Sneha,Verma,customer1009@example.com,9595111959,Chennai,India,2026-11-09
-1009,Arjun,Verma,customer1010@example.com,9272251606,Kolkata,India,2026-11-10
+1009,Arjun,Verma,customer1010@example.com,9272251606,Kolkata,India,2026-12-10
+1010,Hanumesh,naidu,customer1011@example.com,9014213212,hyd,india,2026-12-10
